@@ -13,19 +13,21 @@ Quick Links
 
 Table of Contents
 
-Overview
-Getting Started
-Prerequisites
-Installation
-Usage
-Testing
+  Overview
+  Getting Started
+    
+      Prerequisites
+      Installation
+      Usage
+      Testing
+    
+  
+  Technologies Used
+  Project Structure
+  Author
+  License
+  Acknowledgments
 
-
-Technologies Used
-Project Structure
-Author
-License
-Acknowledgments
 
 
 Overview
