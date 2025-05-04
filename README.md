@@ -1,5 +1,5 @@
 Web-Carshowroom-Full-stack 🚗✨
-\Elevate your car browsing experience with an interactive showroom featuring smooth animations and a user-friendly design!
+\ Elevate your car browsing experience with an interactive showroom featuring smooth animations and a user-friendly design!
 🚀 Explore the Car Showroom!
 This is an interactive full-stack web application designed to enhance the online car browsing experience for enthusiasts. Featuring smooth animations and a sleek design, this project showcases a variety of cars with engaging sliders and detailed options. Check out the live demo below!
 Quick Links
@@ -90,11 +90,64 @@ Backend Testing: Use Mocha or Jest to test the API endpoints.
 Manual Testing: Open the app in different browsers to ensure cross-browser compatibility.
 
 Technologies Used
+Frontend Dependencies
 
-Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express
-Database: (Specify if applicable, e.g., MongoDB, or mention if none is used)
-Tools: Git, npm, Webpack (or other bundlers if applicable)
+@eslint/js: 9.22.0
+@react-three/drei: 10.0.4
+@react-three/fiber: 9.1.0
+@types/react-dom: 19.0.4
+@types/react: 19.0.10
+@vitejs/plugin-react: 4.3.4
+autoprefixer: 10.4.21
+axios: 1.8.4
+chart.js: 4.4.8
+eslint-plugin-react-hooks: 5.2.0
+eslint-plugin-react-refresh: 0.4.19
+eslint: 9.22.0
+framer-motion: 12.6.2
+globals: 15.15.0
+postcss: 8.5.3
+react-chartjs-2: 5.3.0
+react-dom: 19.0.0
+react-router-dom: 7.4.1
+react: 19.0.0
+tailwindcss: 3.4.17
+three: 0.174.0
+typescript-eslint: 8.26.0
+typescript: 5.7.3
+validator: 13.15.0
+vite: 6.2.1
+
+Backend Dependencies
+
+@types/bcryptjs: 3.0.0
+@types/cors: 2.8.17
+@types/date-fns: 2.6.3
+@types/express: 5.0.1
+@types/jsonwebtoken: 9.0.9
+@types/multer: 1.4.12
+@types/node: 22.13.14
+@types/nodemailer: 6.4.17
+@types/validator: 13.12.3
+@types/ws: 8.18.1
+bcryptjs: 3.0.2
+cors: 2.8.5
+date-fns: 4.1.0
+dotenv: 16.4.7
+express: 4.21.2
+jsonwebtoken: 9.0.2
+multer: 1.4.5-lts.2
+mysql2: 3.14.0
+nodemailer: 6.10.1
+nodemon: 3.1.9
+ts-node: 10.9.2
+typescript: 5.8.2
+validator: 13.15.0
+ws: 8.18.1
+
+Database
+
+MySQL: Used via mysql2 package for backend data storage.
 
 Project Structure
 
