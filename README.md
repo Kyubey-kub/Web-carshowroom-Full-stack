@@ -1,12 +1,15 @@
+
 Web-Carshowroom-Full-stack 🚗✨
-\ Elevate your car browsing experience with an interactive showroom featuring smooth animations and a user-friendly design!
+Elevate your car browsing experience with an interactive showroom featuring smooth animations and a user-friendly design!
+
 🚀 Explore the Car Showroom!
-This is an interactive full-stack web application designed to enhance the online car browsing experience for enthusiasts. Featuring smooth animations and a sleek design, this project showcases a variety of cars with engaging sliders and detailed options. Check out the live demo below!
+This is an interactive full-stack web application designed to enhance the online car browsing experience for enthusiasts. Featuring smooth animations and a sleek design, this project showcases a variety of cars with engaging sliders and detailed options. Check out the live demo below!  
 Quick Links
 
-🌟 Live Demo
+🌟 Live Demo (Coming Soon)
 📂 Explore the Code
 📧 Contact Me
+
 
 Table of Contents
 
@@ -27,6 +30,7 @@ Acknowledgments
 Overview
 Web-Carshowroom-Full-stack is a dynamic full-stack web application designed to elevate the online car browsing experience. It features an engaging layout and interactive elements, focusing on delivering a visually appealing experience with seamless animations, making it easy for users to explore different car models. This project demonstrates skills in both frontend and backend development, including responsive design, API integration, and animation techniques.
 Why Web-Carshowroom-Full-stack?
+This project aims to provide a user-friendly interface that enhances car visibility and customer engagement. The core features include:
 
 🎮 Interactive Design: Engaging sliders and car detail options that captivate users.
 📱 Responsive Layout: Ensures accessibility and a seamless experience across devices.
@@ -42,7 +46,6 @@ Programming Languages: HTML, CSS, JavaScript (Frontend); Node.js, Express (Backe
 Web Browser: A modern web browser (e.g., Chrome, Firefox, Safari)
 Text Editor: Any code editor like VS Code, Sublime Text, or Notepad++
 Git: For cloning the repository (optional)
-Node.js and npm: For running the backend and managing dependencies
 
 Installation
 Set up the project on your local machine with these steps:
@@ -87,77 +90,23 @@ Testing
 
 Frontend Testing: Use tools like Jest or React Testing Library to test the frontend components.
 Backend Testing: Use Mocha or Jest to test the API endpoints.
-Manual Testing: Open the app in different browsers to ensure cross-browser compatibility.
 
 Technologies Used
-Frontend Dependencies
 
-@eslint/js: 9.22.0
-@react-three/drei: 10.0.4
-@react-three/fiber: 9.1.0
-@types/react-dom: 19.0.4
-@types/react: 19.0.10
-@vitejs/plugin-react: 4.3.4
-autoprefixer: 10.4.21
-axios: 1.8.4
-chart.js: 4.4.8
-eslint-plugin-react-hooks: 5.2.0
-eslint-plugin-react-refresh: 0.4.19
-eslint: 9.22.0
-framer-motion: 12.6.2
-globals: 15.15.0
-postcss: 8.5.3
-react-chartjs-2: 5.3.0
-react-dom: 19.0.0
-react-router-dom: 7.4.1
-react: 19.0.0
-tailwindcss: 3.4.17
-three: 0.174.0
-typescript-eslint: 8.26.0
-typescript: 5.7.3
-validator: 13.15.0
-vite: 6.2.1
-
-Backend Dependencies
-
-@types/bcryptjs: 3.0.0
-@types/cors: 2.8.17
-@types/date-fns: 2.6.3
-@types/express: 5.0.1
-@types/jsonwebtoken: 9.0.9
-@types/multer: 1.4.12
-@types/node: 22.13.14
-@types/nodemailer: 6.4.17
-@types/validator: 13.12.3
-@types/ws: 8.18.1
-bcryptjs: 3.0.2
-cors: 2.8.5
-date-fns: 4.1.0
-dotenv: 16.4.7
-express: 4.21.2
-jsonwebtoken: 9.0.2
-multer: 1.4.5-lts.2
-mysql2: 3.14.0
-nodemailer: 6.10.1
-nodemon: 3.1.9
-ts-node: 10.9.2
-typescript: 5.8.2
-validator: 13.15.0
-ws: 8.18.1
-
-Database
-
-MySQL: Used via mysql2 package for backend data storage.
+Frontend Dependencies: @eslint/js, @react-three/drei, @react-three/fiber, @types/react-dom, @types/react, @vitejs/plugin-react, autoprefixer, axios, chart.js, eslint-plugin-react-hooks, eslint-plugin-react-refresh, eslint, framer-motion, globals, postcss, react-chartjs-2, react-dom, react-router-dom, react, tailwindcss, three, typescript-eslint, typescript, validator, vite
+Backend Dependencies: @types/bcryptjs, @types/cors, @types/date-fns, @types/express, @types/jsonwebtoken, @types/multer, @types/node, @types/nodemailer, @types/validator, @types/ws, bcryptjs, cors, date-fns, dotenv, express, jsonwebtoken, multer, mysql2, nodemailer, nodemon, ts-node, typescript, validator, ws
+Database: MySQL (via mysql2 package)
 
 Project Structure
-
-web-carshowroom-Backend/: Contains the backend code, API routes, and server logic.
-web-carshowroom-Frontend/: Contains the frontend code, React components, and static assets.
-README.md: Project documentation.
+Web-carshowroom-Full-stack/
+├── web-carshowroom-Backend/  # Contains the backend code, API routes, and server logic
+├── web-carshowroom-Frontend/ # Contains the frontend code, React components, and static assets
+├── README.md                 # Project documentation
+└── LICENSE                   # Project license
 
 Author
 
-Kyubey-kubGitHub: Kyubey-kub
+Kyubey-kub - GitHub Profile
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -166,3 +115,5 @@ Acknowledgments
 Thanks to the open-source community for providing amazing tools and libraries.
 Inspired by modern car showroom websites and their user-friendly designs.
 
+
+Back to Top
